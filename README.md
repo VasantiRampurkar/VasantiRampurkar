@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vasanti Rampurkar👧</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **JavaScript,CSS.**
+- 💬 Ask me about **JavaScript,CSS,React Js,HTML**
 
 - 📫 How to reach me **vasanti.vv09@gmail.com**
 
